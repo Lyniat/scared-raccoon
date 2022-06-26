@@ -3,7 +3,7 @@ devtitle=lyniat
 gameid=Scared Raccoon
 gametitle=Scared Raccoon
 version=0.1
-#icon=metadata/icon.png
+icon=metadata/icon.png
 
 # Uncomment the entry below to bytecode compile your Ruby code (Pro License Only)
 compile_ruby=true
