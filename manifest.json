@@ -1,0 +1,16 @@
+{
+	"app/main.rbc" : { "filesize" : 1826, "filetime" : 1656251297 },
+	"font.ttf" : { "filesize" : 3146844, "filetime" : 1656251297 },
+	"open-source-licenses.txt" : { "filesize" : 31949, "filetime" : 1656251297 },
+	"sprites/raccoon.png" : { "filesize" : 341, "filetime" : 1656251297 },
+	"sprites/front.png" : { "filesize" : 682, "filetime" : 1656251297 },
+	"sprites/snake.png" : { "filesize" : 299, "filetime" : 1656251297 },
+	"metadata/icon.png" : { "filesize" : 157056, "filetime" : 1656251297 },
+	"metadata/ios_metadata.txt" : { "filesize" : 910, "filetime" : 1656251297 },
+	"metadata/DRAGONRUBY_PRODUCTION_BUILD" : { "filesize" : 0, "filetime" : 1656251297 },
+	"metadata/game_metadata.txt" : { "filesize" : 330, "filetime" : 1656251297 },
+	"dragonruby.png" : { "filesize" : 14417, "filetime" : 1656251297 },
+	"dragonruby-controller.png" : { "filesize" : 32688, "filetime" : 1656251297 },
+	"console-logo.png" : { "filesize" : 25034, "filetime" : 1656251297 },
+	"" : {}
+}
