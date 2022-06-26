@@ -1,6 +1,6 @@
-devid=lyniat
+#devid=lyniat
 devtitle=lyniat
-gameid=Scared Raccoon
+#gameid=Scared Raccoon
 gametitle=Scared Raccoon
 version=0.1
 #icon=metadata/icon.png
