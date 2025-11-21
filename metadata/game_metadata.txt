@@ -2,7 +2,7 @@
 devtitle=lyniat
 #gameid=Scared Raccoon
 gametitle=Scared Raccoon
-version=0.1
+version=1.0
 #icon=metadata/icon.png
 
 # Uncomment the entry below to bytecode compile your Ruby code (Pro License Only)
@@ -10,3 +10,7 @@ compile_ruby=true
 
 # Uncomment the entry below to specify the package name for your APK (Pro License Only)
 #packageid=org.dev.gamename
+
+# Available in Pro License
+hd=true
+highdpi=true
